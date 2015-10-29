@@ -1,0 +1,38 @@
+@import 'reset.css';
+body 
+#page {
+	width: 75%;
+	margin: 0 auto;
+}
+
+nav li{
+	display: inline-block;
+	margin:  10px;
+}
+
+header {
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+}
+
+header h1, h3 {
+	font-size: 250%;
+	color: #AD001C;
+	font-weight: bold;
+
+}
+h2 {
+    font-size: 200%;
+    color: #AD001C;
+	font-weight: bold;
+}
+p {
+    font-size: 200%;
+    color: #AD001C;
+	font-weight: bold;
+}
+body {
+  background:  url(https://33.media.tumblr.com/23d06b81071c01d10bb4810dd1a31ead/tumblr_mtuun4dSOI1sggky2o1_500.gif) no-repeat center center fixed; 
+  background-size: cover;
+}
+
